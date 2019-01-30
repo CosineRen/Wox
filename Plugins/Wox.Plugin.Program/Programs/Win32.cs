@@ -155,6 +155,8 @@ namespace Wox.Plugin.Program.Programs
                 if (!string.IsNullOrEmpty(target))
                 {
                     var extension = Extension(target);
+
+
                     if (extension == ExeExtension && File.Exists(target))
                     {
                         buffer = new StringBuilder(MAX_PATH);

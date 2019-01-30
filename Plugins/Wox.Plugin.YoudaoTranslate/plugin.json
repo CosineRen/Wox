@@ -1,0 +1,12 @@
+{
+    "ID":"CEA0FDFC6D3B4085823D60DC76F28853",
+    "ActionKeyword":"yd",
+    "Name":"有道",
+    "Description":"有道翻译",
+    "Author":"Cosine",
+    "Version":"1.0.0",
+    "Language":"csharp",
+    "Website":"http://youdao.com",
+    "ExecuteFileName":"Wox.Plugin.YoudaoTranslate.dll",
+    "IcoPath":"youdao.jpg"
+}
